@@ -1,30 +1,54 @@
-# Hello, I'm Sumit Sharma 👋
+<h1 align="center">Hi 👋, I'm Sumit Sharma</h1>
+<h3 align="center">A passionate Developer from India</h3>
 
-## <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="50"> About Me
-I'm a backend developer with expertise in PHP (Laravel), Python (Django), HTML, CSS, Bootstrap, AJAX, jQuery, Git, and MySQL. I'm passionate about building efficient and scalable web applications.
+- 🌱 I’m currently working with **Laravel, Django**
+- 💬 Ask me about **PHP, Python, MySQL**
+- 📫 How to reach me **sharmasumit1283@gmail.com**
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Skills
-- **Programming Languages:** PHP, Python
-- **Frameworks:** Laravel, Django
-- **Web Technologies:** HTML, CSS, Bootstrap
-- **JavaScript Libraries/Frameworks:** AJAX, jQuery
-- **Version Control:** Git
-- **Database Management:** MySQL
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <!-- Add your social media links here -->
+</p>
 
-## 🚀 Projects
-Here are some of the projects I've worked on:
-
-1. **Project Name**: [Description of the project]
-   - **Tech Stack**: [Languages/Frameworks Used]
-   - [Add any additional details or links]
-
-2. **Project Name**: [Description of the project]
-   - **Tech Stack**: [Languages/Frameworks Used]
-   - [Add any additional details or links]
-
-## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
-- Portfolio: [Your Portfolio Website](https://www.yourportfolio.com)
-
-Feel free to reach out if you have any questions or collaboration opportunities!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  </a> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a> 
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://imgs.search.brave.com/Gl2xpJ-Im_e0WMvIvqPdeQz_ULyPwhhgi6JkphKoKio/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi85LzlhL0xh/cmF2ZWwuc3ZnLzIy/MHB4LUxhcmF2ZWwu/c3ZnLnBuZw" alt="laravel" width="40" height="40"/>
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+</p>
